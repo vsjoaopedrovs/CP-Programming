@@ -6,4 +6,5 @@ vector<int> var;
 
 int main() {
     cout << "Ola Mundo!" << endl;
+    return 0;
 }
